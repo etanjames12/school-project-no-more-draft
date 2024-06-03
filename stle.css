@@ -1,0 +1,17 @@
+body{
+    width: auto;
+    height: auto;
+  background-image: linear-gradient(blue, green);
+}
+p{
+    border-style: outset;
+    border-radius: 20px;
+    border-color: crimson;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+h1{
+    text-shadow:0px 5px 0px grey;
+}
